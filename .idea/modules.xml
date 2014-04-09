@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KoreaMania.iml" filepath="$PROJECT_DIR$/KoreaMania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViewPagerIndicator/ViewPagerIndicator.iml" filepath="$PROJECT_DIR$/../ViewPagerIndicator/ViewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../enhanced-volley/enhanced-volley.iml" filepath="$PROJECT_DIR$/../enhanced-volley/enhanced-volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace.iml" filepath="$PROJECT_DIR$/../workspace.iml" />
+    </modules>
+  </component>
+</project>
+

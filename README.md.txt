@@ -1,0 +1,1 @@
+This project is intend to provide an entertaining and easy way for to go around in Korea, for tourists, exchange students, English teachers and businessmen.

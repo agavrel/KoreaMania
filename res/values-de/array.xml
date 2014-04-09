@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string-array name="greetings_item">
+        <item>안녕하세요 Annyeong-haseyo</item>
+    	<item>아랙스 입니다 Alex imnida</item>
+    	<item>고맙습니다 Gomap-seumnida</item>
+    	<item>천만해요 Cheon-man-haeyo</item>
+    	<item>만나서 반가워요 mannasseo panga-weoyo</item>
+    	<item>다음에 보자 ta-eumae boja</item>
+    	<item>죄송해요 jwessong-haeyo</item>
+    	<item>죄송합니다 jwessong-hamnida</item>
+    	<item>오랜만이에요 olenman-ieyo</item>
+    	<item>고마워요 gomaweoyo</item>
+    </string-array>
+    
+    	<string-array name="GreetingsFR">
+        <item>Bonjour</item>
+    	<item>Je m\'appelle Alex</item>
+    	<item>Je vous remercie</item>
+    	<item>Je vous en prie (de rien)</item>
+    	<item>Enchanté(e) de faire votre connaissance</item>
+    	<item>A bientôt</item>
+    	<item>Pardon</item>
+    	<item>Je vous prie de m\'excuser</item>
+    	<item>Cela fait longtemps</item>
+    	<item>Merci</item>
+
+    </string-array>
+</resources>

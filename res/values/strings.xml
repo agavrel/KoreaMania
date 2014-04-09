@@ -1,0 +1,174 @@
+<resources>
+
+    <string name="sample_show_log">Show Log</string>
+    <string name="sample_hide_log">Hide Log</string>
+    
+    <string-array name="LANG">
+        <item>EN</item>
+        <item>FR</item>
+        <item>ES</item>
+        <item>DE</item>
+        <item>JP</item>
+        <item>CN</item>
+     </string-array>
+    <string name="LANG_prompt">Select your language</string>
+     
+    
+    <!-- string ids for registration.xml -->
+    <string name="app_name">Korea Mania</string>
+    <string name="username_textview">Email:</string>
+    <string name="password_textview">Password:</string>
+    <string name="login_textview">Login</string>
+    <string name="submit">Submit</string>
+    <string name="register">Register</string>
+    <string name="slogan">Trade and share your books !</string>
+    <string name="developer">by Zeal Kingdom</string>
+    
+    <!-- string ids for home.xml -->
+    <string name="post_comment">Post Comment</string>
+    <string name="read_comments_title">Recent Comments</string>
+      <string name="passwords_not_same">Passwords don\'t match</string>
+
+    <!-- string for sliding menu -->
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Greetings</item>
+        <item >Find Directions</item>
+        <item >At the Restaurant</item>
+        <item >In the Subway</item>
+        <item >Featured Places</item>
+        <item >Learn the Korean Alphabet</item>
+        <item >Visit Korea</item>
+        <item >Korean Culture</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_visit_korea</item>
+        <item>@drawable/ic_korean_culture</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="translation">Click on sentence for translation</string>
+    
+    <string name="Greetings1">안녕하세요 Annyeong-haseyo</string>
+    <string name="Greetings2">아랙스 입니다 Alex imnida</string>
+    <string name="Greetings3">고맙습니다 Gomap-seumnida</string>
+    <string name="Greetings4">천만해요 Cheon-man-haeyo</string>
+    <string name="Greetings5">만나서 반가워요 mannasseo panga-weoyo</string>
+    <string name="Greetings6">다음에 보자 ta-eumae boja</string>
+    <string name="Greetings7">죄송해요 jwessong-haeyo</string>
+    <string name="Greetings8">죄송합니다 jwessong-hamnida</string>
+    <string name="Greetings9">오랜만이에요 olenman-ieyo</string>
+    <string name="Greetings10">고마워요 gomaweoyo</string>
+    
+    <string name="GreetingsT1">Bonjour</string>
+	<string name="GreetingsT2">Je m\'appelle Alex</string>
+	<string name="GreetingsT3">Je vous remercie</string>
+	<string name="GreetingsT4">Je vous en prie (de rien)</string>
+	<string name="GreetingsT5">Enchanté(e) de faire votre connaissance</string>
+	<string name="GreetingsT6">A bientôt</string>
+	<string name="GreetingsT7">Pardon</string>
+	<string name="GreetingsT8">Je vous prie de m\'excuser</string>
+	<string name="GreetingsT9">Cela fait longtemps</string>
+	<string name="GreetingsT10">Merci</string>
+    
+	<string name="DirectionT1">Je vous prie de m\'excuser</string>
+	<string name="DirectionT2">Parlez-vous anglais ?</string>
+	<string name="DirectionT3">Où se trouve Gwanghwamun ? (le palais royal)</string>
+	<string name="DirectionT4">Où se trouve l\'entrée du métro ?</string>
+	<string name="DirectionT5">Où se trouve la ligne 5 ?</string>
+	<string name="DirectionT6">Où se trouve l\'hotel Shilla ?</string>
+	<string name="DirectionT7">Pouvez-vous me montrer sur un plan ?</string>
+	<string name="DirectionT8">Je n\'ai pas compris</string>
+	<string name="DirectionT9">Pouvez-vous répéter plus lentement ?</string>
+	<string name="DirectionT10">Passez une bonne journée</string>
+	<string name="DirectionT11">Je ne sais pas trop</string>
+	<string name="DirectionT12">Je ne comprends toujours pas</string>
+	    
+	<string name="Direction1">실례합니다 Shillyae-hamnida</string>
+	<string name="Direction2">영어를 할 줄 아십니까?  yeongeoreul hal djul ashimnika?</string>
+	<string name="Direction3">광화문 어디에 있어요? Gwanghwamun eodiae isseoyo?</string>
+	<string name="Direction4">지하철 입구 어디에 있어요? jlhacheol ibgu </string>
+	<string name="Direction5">5 호선 어디에 있어요? o hoseon eodiae isseoyo?</string>
+	<string name="Direction6">신라 호텔 어디에 있어요? Shilla hotel eodiae isseoyo?</string>
+	<string name="Direction7">지도에 표시를 할 수 있습니까? jidoae pyosireul isseumnika?</string>
+	<string name="Direction8">이해하지 못했습니다 ihaehaji mot haesseumnida</string>
+	<string name="Direction9">천천히 말씀해 주세요  cheoncheonhi nalsseumhae djuseyo</string>
+	<string name="Direction10">좋은 하루 보내세요~ joeun haru ponesseyo</string>
+	<string name="Direction11">잘 모르겠어요 jal molleugaesseoyo</string>
+	<string name="Direction12">아직 이해가 안 돼요 ajik ihaega an dwaeyo</string>
+	
+    
+    <string name="Alph1">ㅏ</string>
+    <string name="Alph2">ㅡ</string>
+    <string name="Alph3">ㅣ</string>
+    <string name="Alph4">ㅗ</string>
+    <string name="Alph5">ㅓ</string>
+    <string name="Alph6">ㅜ</string>
+    <string name="Alph7">ㅐ</string>
+    <string name="Alph8">ㅔ</string>
+    <string name="Alph9">ㅑ</string>
+    <string name="Alph10">미</string>
+    <string name="Alph11">니</string>
+    <string name="Alph12">티</string>
+    <string name="Alph13">피</string>
+    <string name="Alph14">비</string>
+    <string name="Alph15">시</string>
+    <string name="Alph16">사</string>
+    <string name="Alph17">라</string>
+    <string name="Alph18">하</string>
+    
+    <string name="AlphT1">A</string>
+    <string name="AlphT2">E</string>
+    <string name="AlphT3">I</string>
+    <string name="AlphT4">O</string>
+    <string name="AlphT5">EO</string>
+    <string name="AlphT6">OU</string>
+    <string name="AlphT7">è</string>
+    <string name="AlphT8">é</string>
+    <string name="AlphT9">Ya</string>
+    <string name="AlphT10">Mi</string>
+    <string name="AlphT11">Ni</string>
+    <string name="AlphT12">Ti</string>
+    <string name="AlphT13">Pi</string>
+    <string name="AlphT14">Bi</string>
+    <string name="AlphT15">Shi</string>
+    <string name="AlphT16">Sa</string>
+    <string name="AlphT17">La</string>
+    <string name="AlphT18">Ha</string>
+    
+    <string name="Restaurant1">비빔밥 주세요 bibimbap djuseyo</string>
+    <string name="Restaurant2">물 주세요 mul djuseyo</string>
+    <string name="Restaurant3">불고기 주세요 bulgogi djuseyo</string>
+    <string name="Restaurant4">갈비 주세요 kalbi djuseyo</string>
+    <string name="Restaurant5">김치 있어요 ? kimchi isseoyo ?</string>
+    <string name="Restaurant6">정말 맛있어요 jeongmal mashisseoyo</string>
+    <string name="Restaurant7">한번도 주세요 hanbeon-d djuseyo</string>
+    <string name="Restaurant8">비빔밥 두게 (주세요) bibimap duge</string>
+    <string name="Restaurant9">고맙습니다 gomapseumnida</string>
+    <string name="Restaurant10">계산 주세요 kyesan djuseyo</string>
+    
+    <string name="RestaurantT1">Je voudrais du Bibimbap (plat le plus emblématique)</string>
+    <string name="RestaurantT2">Je voudrais de l\'eau</string>
+    <string name="RestaurantT3">Je voudrais du Bulgogi (boeuf aux oignons)</string>
+    <string name="RestaurantT4">Je voudrais un barbecue coréen</string>
+    <string name="RestaurantT5">Avez-vous du kimchi ? (choux pimenté)</string>
+    <string name="RestaurantT6">C\'est vraiment délicieux !</string>
+    <string name="RestaurantT7">Pourrions-nous en avoir encore ?</string>
+    <string name="RestaurantT8">2 Bibimbap</string>
+    <string name="RestaurantT9">Je vous remercie</string>
+    <string name="RestaurantT10">Je voudrais l\'addition</string>	
+</resources>
